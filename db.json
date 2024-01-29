@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "metro": [
+    {
+        "id": "afe5d76f-d1c1-4716-812c-9ca88da98ab8",
+        "nombre": "Valle",
+        "sector": "LosChillos",
+        "salida": "Floresta",
+        "llegada": "San Luis",
+        "maquinista": "Martin",
+        "detalles": "19:30"
+      },
+      {
+        "id": "f3e7922a-3fad-451a-b09b-de106f94479c",
+        "nombre": "Valle",
+        "sector": "LosChillos",
+        "salida": "Floresta",
+        "llegada": "San Luis",
+        "maquinista": "Martin",
+        "detalles": "lunes"
+      },
+      {
+        "id": "f4ba75a4-66a4-4efb-a344-1bc33891c4e4",
+        "nombre": "Valle",
+        "sector": "LosChillos",
+        "llegada": "San Luis",
+        "salida": "Floresta",
+        "maquinista": "Martin",
+        "detalles": "8pm"
+      }
+  ]
+}
